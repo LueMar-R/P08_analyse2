@@ -1,6 +1,6 @@
 # P08_analyse2
 Déploiement de l’environnement, Manipulation, Traitement des données, Visualisation de données et Analyse de données.
-Ludivine Maintier
+Ludivine M.
 
 ## Le code
 
@@ -16,6 +16,7 @@ Les méthodes d'analyse appliquées et les résultats y figurent sous forme de c
 ### Partie 5 : Analyse de la variance
 
 Boîtes à moustache âge / classement (rating)
+
 ![age](images/boxplot-age.PNG)
 ![classement](images/boxplot-rating.PNG)
 
